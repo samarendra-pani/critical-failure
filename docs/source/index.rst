@@ -1,22 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to Critical Failure's Wiki!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This server initially hosted an idea for a campaign. It was a grand plan that never came to fruition because I was overenthusiastic. But now I will start again and I start small. Welcome to Critical Failure.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The adventures of this game will take place in and around the city of Myrrah, a well-to-do city with a happy population and many travellers. The adventurers, who may choose to originate from the city or be an outsider, will face many challenges to prove themselves to be worthy of the coin or reputation they have been promised. They might work for the local authorities or for the various guilds that bring life to the city. They might work to help themselves or help others.
 
-.. note::
+The adventure is not set in stone. All of our adventures will happen in the backdrop of this city but your set of adventurers can change. Based on what we want to play, we will be the knights in shining armour or the team of assassins sent to kill the lord of the castle.
 
-   This project is under active development.
+Believing in the fun after Nat1s, I create this Wiki for all players who are unlucky enough to have me as a DM. May our critical failures bring a smile to all at the table!
 
-Contents
---------
+The main texts that will be needed by the players are below
 
-.. toctree::
-
-   usage
-   api
+* :ref:`The Gods, The Fiends, The Patrons<pantheon>`: This will inform you (especially the Clerics, the Paladins, and the Warlocks) about who your sugar daddy/mommy can be.
+* :ref:`The City of Myrrah<myrrah>`: Here you will find information on the city of Myrrah, the centre of all our adventures.

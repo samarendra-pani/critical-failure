@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
-=======================================
+Welcome to Critical Failure's GitHub!
+=====================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Critical Failure is a D&D setting that I am developing. It is a work-in-progress.
+I am creating a fantasy setting with decent amount of details which will be my go-to setting for D&D games.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+So lets get started!
