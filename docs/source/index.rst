@@ -9,7 +9,27 @@ The adventure is not set in stone. All of our adventures will happen in the back
 
 Believing in the fun after Nat1s, I create this Wiki for all players who are unlucky enough to have me as a DM. May our critical failures bring a smile to all at the table!
 
-The main texts that will be needed by the players are below
+Table of Contents
+-----------------
 
-* :ref:`The Gods, The Fiends, The Patrons<pantheon>`: This will inform you (especially the Clerics, the Paladins, and the Warlocks) about who your sugar daddy/mommy can be.
-* :ref:`The City of Myrrah<myrrah>`: Here you will find information on the city of Myrrah, the centre of all our adventures.
+.. toctree::
+    :maxdepth: 1
+    :caption: General Information
+    
+    pantheon
+    
+    myrrah
+    
+    geography
+    
+    guilds
+    
+    military
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Adventures
+    
+    adventures/champion-of-the-crawling-king
+    
+    adventures/the-maritime-mystery
