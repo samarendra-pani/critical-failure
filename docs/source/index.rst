@@ -17,14 +17,6 @@ Table of Contents
     :caption: General Information
     
     pantheon
-    
-    myrrah
-    
-    geography
-    
-    guilds
-    
-    military
 
 .. toctree::
     :maxdepth: 1
