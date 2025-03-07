@@ -23,5 +23,4 @@ Table of Contents
     :caption: Adventures
     
     adventures/champion-of-the-crawling-king
-    
-    adventures/the-maritime-mystery
+    adventures/finding-mr-mittens

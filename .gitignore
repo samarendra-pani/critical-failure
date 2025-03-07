@@ -1,3 +1,5 @@
+# User defined git ignore files
+docs/source/adventures/*/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
